@@ -29,4 +29,5 @@ Usage:
 - The program displays a grid of colored diamonds where every other row and column alternates between red and blue colors.
 
 Picture of Game:
+
 <img src="complex_loops.png"  />
